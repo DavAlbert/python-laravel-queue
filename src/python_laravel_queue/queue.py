@@ -1,6 +1,6 @@
 from redis import Redis
 import json
-import module.phpserialize as phpserialize
+import phpserialize
 from pyee import BaseEventEmitter
 import uuid
 import time
